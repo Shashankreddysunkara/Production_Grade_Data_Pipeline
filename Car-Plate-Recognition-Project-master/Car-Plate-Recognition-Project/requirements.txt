@@ -94,7 +94,7 @@ traitlets==4.3.2
 urllib3==1.25.7
 wcwidth==0.1.7
 webencodings==0.5.1
-Werkzeug==0.15.5
+Werkzeug==2.2.3
 wget==3.2
 wincertstore==0.2
 wrapt==1.11.2
